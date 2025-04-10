@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gntem
-- 👀 I’m interested in Software engineering using JS/TS, Node.js, Rust as well as cyber security.
-- 🌱 I’m currently learning Rust!
-- 💞️ I’m looking to collaborate on Rust projects.
+- 👀 I’m interested in Software engineering using JS/TS, Node.js, Rust, cyber security.
+- 💞️ I’m looking to collaborate on open source projects (Node.js/Typescript/Rust stacks).
 - 📫 How to reach me? idk just ping me somehow in github :D
 
 <!---
